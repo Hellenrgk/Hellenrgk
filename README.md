@@ -1,4 +1,4 @@
-## Olá! Eu sou a Hellen Rogenski 👋
+## Olá! Eu sou Hellen Rogenski 👋
 
 - 🔭 Hoje sou estágiaria Devsecops
 - 🌱 Estudando Gestão em TI
